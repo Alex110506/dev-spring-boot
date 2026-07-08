@@ -1,9 +1,10 @@
 package com.test.demo.rest;
 
 import com.test.demo.entity.Student;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import jakarta.annotation.PostConstruct;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -12,14 +13,30 @@ import java.util.List;
 @RequestMapping("/api")
 public class StudentRestController {
 
+    private List<Student> listStudents;
+
+    @PostConstruct
+    public void loadData(){
+        listStudents=new ArrayList<>();
+
+        listStudents.add(new Student("mena","caca"));
+        listStudents.add(new Student("puta","lunga"));
+        listStudents.add(new Student("ionel","pepsi"));
+    }
+
     @GetMapping("/students")
     public List<Student> getStudents(){
-        List<Student> theStudents=new ArrayList<>();
+        return listStudents;
+    }
 
-        theStudents.add(new Student("mena","caca"));
-        theStudents.add(new Student("puta","lunga"));
-        theStudents.add(new Student("ionel","pepsi"));
+    @GetMapping("/student/{studentId}")
+    public Student getStudent(@PathVariable int studentId){
+        //check student id against list size
 
-        return theStudents;
+        if((studentId>=listStudents.size()) || (studentId<0)){
+            throw new StudentNotFoundException("Student not found with id : " + studentId);
+        }
+
+        return listStudents.get(studentId);
     }
 }

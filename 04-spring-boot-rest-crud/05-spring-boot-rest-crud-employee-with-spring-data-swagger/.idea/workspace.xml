@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="591f154f-677f-4509-b0d3-0280b3bef503" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dev-spring-boot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/dev-spring-boot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/src/main/java/com/test/springboot/demo/testapp/TestappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/src/main/java/com/test/springboot/demo/testapp/TestappApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/src/main/java/com/test/springboot/demo/testapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/src/main/java/com/test/springboot/demo/testapp/rest/FunRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/src/test/java/com/test/springboot/demo/testapp/TestappApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/01-spring-boot-demo/src/test/java/com/test/springboot/demo/testapp/TestappApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/src/main/java/com/test/springboot/demo/testapp/TestappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/src/main/java/com/test/springboot/demo/testapp/TestappApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/src/main/java/com/test/springboot/demo/testapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/src/main/java/com/test/springboot/demo/testapp/rest/FunRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/src/test/java/com/test/springboot/demo/testapp/TestappApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/02-dev-tools-demo/src/test/java/com/test/springboot/demo/testapp/TestappApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/src/main/java/com/test/springboot/demo/testapp/TestappApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/src/main/java/com/test/springboot/demo/testapp/TestappApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/src/main/java/com/test/springboot/demo/testapp/rest/FunRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/src/main/java/com/test/springboot/demo/testapp/rest/FunRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/src/test/java/com/test/springboot/demo/testapp/TestappApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01-spring-boot-overview/03-actuator-demo/src/test/java/com/test/springboot/demo/testapp/TestappApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/SpringcoredemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/SpringcoredemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/common/Coach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/common/Coach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/common/CricketCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/common/CricketCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/common/SwimCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/common/SwimCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/common/TennisCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/common/TennisCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/config/SportConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/config/SportConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/rest/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/java/com/test/springcoredemo/rest/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/test/java/com/test/springcoredemo/SpringcoredemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../02-spring-boot-spring-core/01-constructor-injection/src/test/java/com/test/springcoredemo/SpringcoredemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/01-create-user.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/01-create-user.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/02-student-tracker.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/00-starter-sql-scripts/02-student-tracker.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/java/com/test/student/StudentApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/java/com/test/student/StudentApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/java/com/test/student/dao/StudentDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/java/com/test/student/dao/StudentDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/java/com/test/student/dao/StudentDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/java/com/test/student/dao/StudentDAOImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/java/com/test/student/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/java/com/test/student/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/test/java/com/test/student/StudentApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../03-spring-boot-hibernate-jpa-crud/01-cruddemo-student-create/src/test/java/com/test/student/StudentApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/java/com/test/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/java/com/test/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/java/com/test/demo/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/java/com/test/demo/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/java/com/test/demo/rest/DemoRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/java/com/test/demo/rest/DemoRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/java/com/test/demo/rest/StudentRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/java/com/test/demo/rest/StudentRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/test/java/com/test/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-boot-rest-crud/src/test/java/com/test/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="20" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FrJgAvtMAKpfTPS4SpJQCi5nJp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.CruddemoApplication.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/alexr/Desktop/coding-projects/dev-spring-boot/04-spring-boot-rest-crud/05-spring-boot-rest-crud-employee-with-spring-data-swagger",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="CruddemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="cruddemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.alex.springboot.cruddemo.CruddemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="591f154f-677f-4509-b0d3-0280b3bef503" name="Changes" comment="" />
+      <created>1782827363507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782827363507</updated>
+      <workItem from="1782827364581" duration="6921000" />
+      <workItem from="1783286850568" duration="2365000" />
+      <workItem from="1783373901215" duration="1560000" />
+      <workItem from="1783418965800" duration="2238000" />
+      <workItem from="1783463802388" duration="2641000" />
+      <workItem from="1783466766292" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
